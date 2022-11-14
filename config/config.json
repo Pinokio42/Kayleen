@@ -1,15 +1,15 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "prefix": "BOT_PREFIX",
+  "token": "OTYxNDMwODQ2ODEwNzYzMjg0.GoH7sj.MolHPRBnliQH-Uvm3p5wrOxsxTvPyjM8h-4gnc",
+  "prefix": "kyn",
   "b_id": "157652",
   "b_key": "Enr5H7upyFrdF61Y",
-  "ownerID": "821095540569407508",
-  "ownerid": "821095540569407508",
+  "ownerID": "608300356027285532",
+  "ownerid": "892327174449795113",
   "voice_log_console": true,
   "everyoneMention": false,
   "hostedBy": true,
   "reactionSuccess": "✔️",
-  "mongoose": "YOUR_MONGODB_URL",
+  "mongoose": "mongodb+srv://PrivateBot89:251019-231220@auroraraisa.8viyn.mongodb.net/PrivateBot89?retryWrites=true&w=majority",
   "customs": {
     "clear": "dynaudnorm=f=200",
     "lightbass": "bass=g=8,dynaudnorm=f=200",
@@ -54,7 +54,7 @@
     "mcompand": "mcompand",
     "earrape": "bass=g=50"
   },
-  "footertext": "Coded By Tech Boy Gaming",
+  "footertext": "Aurora DNM | The Best Private Server",
   "colors": {
     "yes": "BLUE",
     "no": "RED"
